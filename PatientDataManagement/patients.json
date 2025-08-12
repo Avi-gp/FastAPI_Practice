@@ -1,0 +1,202 @@
+{
+    "P001": {
+        "name": "Ananya Verma",
+        "city": "Guwahati",
+        "age": 28,
+        "gender": "female",
+        "height": 1.65,
+        "weight": 90.0,
+        "bmi": 33.06,
+        "verdict": "Obese"
+    },
+    "P002": {
+        "name": "Ravi Mehta",
+        "city": "Mumbai",
+        "age": 35,
+        "gender": "male",
+        "height": 1.75,
+        "weight": 85,
+        "bmi": 27.76,
+        "verdict": "Overweight"
+    },
+    "P003": {
+        "name": "Sneha Kulkarni",
+        "city": "Pune",
+        "age": 22,
+        "gender": "female",
+        "height": 1.6,
+        "weight": 45,
+        "bmi": 17.58,
+        "verdict": "Underweight"
+    },
+    "P004": {
+        "name": "Arjun Verma",
+        "city": "Mumbai",
+        "age": 40,
+        "gender": "male",
+        "height": 1.8,
+        "weight": 90.0,
+        "bmi": 27.78,
+        "verdict": "Overweight"
+    },
+    "P005": {
+        "name": "Neha Sinha",
+        "city": "Kolkata",
+        "age": 30,
+        "gender": "female",
+        "height": 1.55,
+        "weight": 75,
+        "bmi": 31.22,
+        "verdict": "Obese"
+    },
+    "P006": {
+        "name": "Karan Sharma",
+        "city": "Delhi",
+        "age": 26,
+        "gender": "male",
+        "height": 1.72,
+        "weight": 68,
+        "bmi": 23.01,
+        "verdict": "Normal"
+    },
+    "P007": {
+        "name": "Priya Agarwal",
+        "city": "Jaipur",
+        "age": 33,
+        "gender": "female",
+        "height": 1.58,
+        "weight": 52,
+        "bmi": 20.83,
+        "verdict": "Normal"
+    },
+    "P008": {
+        "name": "Vikram Singh",
+        "city": "Chandigarh",
+        "age": 45,
+        "gender": "male",
+        "height": 1.78,
+        "weight": 95,
+        "bmi": 29.98,
+        "verdict": "Overweight"
+    },
+    "P009": {
+        "name": "Meera Reddy",
+        "city": "Hyderabad",
+        "age": 29,
+        "gender": "female",
+        "height": 1.62,
+        "weight": 58,
+        "bmi": 22.1,
+        "verdict": "Normal"
+    },
+    "P010": {
+        "name": "Rohit Joshi",
+        "city": "Ahmedabad",
+        "age": 24,
+        "gender": "male",
+        "height": 1.69,
+        "weight": 72,
+        "bmi": 25.22,
+        "verdict": "Overweight"
+    },
+    "P011": {
+        "name": "Kavya Nair",
+        "city": "Kochi",
+        "age": 31,
+        "gender": "female",
+        "height": 1.64,
+        "weight": 49,
+        "bmi": 18.21,
+        "verdict": "Underweight"
+    },
+    "P012": {
+        "name": "Amit Kumar",
+        "city": "Patna",
+        "age": 38,
+        "gender": "male",
+        "height": 1.76,
+        "weight": 82,
+        "bmi": 26.46,
+        "verdict": "Overweight"
+    },
+    "P013": {
+        "name": "Sakshi Gupta",
+        "city": "Lucknow",
+        "age": 27,
+        "gender": "female",
+        "height": 1.59,
+        "weight": 55,
+        "bmi": 21.75,
+        "verdict": "Normal"
+    },
+    "P014": {
+        "name": "Deepak Yadav",
+        "city": "Bhopal",
+        "age": 42,
+        "gender": "male",
+        "height": 1.73,
+        "weight": 105,
+        "bmi": 35.1,
+        "verdict": "Obese"
+    },
+    "P015": {
+        "name": "Rashika Das",
+        "city": "Bhubaneswar",
+        "age": 25,
+        "gender": "female",
+        "height": 1.61,
+        "weight": 47,
+        "bmi": 18.13,
+        "verdict": "Underweight"
+    },
+    "P016": {
+        "name": "Sanjay Malhotra",
+        "city": "Indore",
+        "age": 36,
+        "gender": "male",
+        "height": 1.74,
+        "weight": 76,
+        "bmi": 25.1,
+        "verdict": "Overweight"
+    },
+    "P017": {
+        "name": "Anjali Bhatia",
+        "city": "Surat",
+        "age": 23,
+        "gender": "female",
+        "height": 1.57,
+        "weight": 51,
+        "bmi": 20.7,
+        "verdict": "Normal"
+    },
+    "P018": {
+        "name": "Manoj Tiwari",
+        "city": "Varanasi",
+        "age": 39,
+        "gender": "male",
+        "height": 1.71,
+        "weight": 88,
+        "bmi": 30.12,
+        "verdict": "Obese"
+    },
+    "P019": {
+        "name": "Pooja Pandey",
+        "city": "Kanpur",
+        "age": 32,
+        "gender": "female",
+        "height": 1.63,
+        "weight": 62,
+        "bmi": 23.33,
+        "verdict": "Normal"
+    },
+    "P020": {
+        "name": "Rajesh Patel",
+        "city": "Gandhinagar",
+        "age": 44,
+        "gender": "male",
+        "height": 1.77,
+        "weight": 91,
+        "bmi": 29.04,
+        "verdict": "Overweight"
+    }
+}
